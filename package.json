@@ -1,0 +1,30 @@
+{
+  "name": "paper-extras",
+  "version": "0.0.1",
+  "description": "Utility functions for paper.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdave1/paper-extras.git"
+  },
+  "keywords": [
+    "paper.js",
+    "paths",
+    "bezier",
+    "vector"
+  ],
+  "author": "David Petrie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdave1/paper-extras/issues"
+  },
+  "homepage": "https://github.com/cdave1/paper-extras#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "paper": "^0.11.3",
+    "paper-jsdom-canvas": "^0.11.3"
+  }
+}
